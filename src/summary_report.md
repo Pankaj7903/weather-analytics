@@ -12,5 +12,7 @@ The wettest month was July, while February had the least rainfall.
 🌡️ Temperature & Humidity: -0.62 → Inverse relationship
 🌡️ Temperature & Wind Speed: 0.18 → Weak positive correlation
 ➡️ Warmer days tend to be drier.
+
+
 Final Thoughts
 These insights support climate modeling, planning, and disaster readiness for this region.
